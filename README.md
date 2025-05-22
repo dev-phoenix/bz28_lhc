@@ -1,4 +1,5 @@
 # Project LHC for bz28
+## WordPress plagin: LHC Support
 
 ### Create copy:
 git copy https://github.com/dev-phoenix/bz28_lhc.git
