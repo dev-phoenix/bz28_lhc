@@ -1,0 +1,24 @@
+
+/*
+!/wp-content
+/wp-content/*
+!/wp-content/plugins
+/wp-content/plugins/*
+
+# main wp plagin: lhc
+!/wp-content/plugins/lhc-support
+/wp-content/plugins/lhc-support/*
+
+# included libs
+!/wp-content/plugins/lhc-support/inc
+/wp-content/plugins/lhc-support/inc/*CAClass*
+!/wp-content/plugins/lhc-support/inc/CAClass__main.php
+
+/wp-content/plugins/lhc-support/inc/crm/cdek_opts.json
+/wp-content/plugins/lhc-support/inc/conf/conf.php
+
+!README.md
+!.gitignore
+
+*copy*
+_*
