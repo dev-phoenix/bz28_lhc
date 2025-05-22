@@ -1,8 +1,8 @@
 # Project LHC for bz28
 
-# Create copy:
+### Create copy:
 git copy https://github.com/dev-phoenix/bz28_lhc.git
 
 ### after copy:
-rename  CAClass__main.php to CAClass.php  
-rename  conf__.php to conf.php
+rename  /wp-content/plugins/lhc-support/inc/CAClass__main.php to CAClass.php  
+rename  /wp-content/plugins/lhc-support/inc/conf/conf__.php to conf.php
